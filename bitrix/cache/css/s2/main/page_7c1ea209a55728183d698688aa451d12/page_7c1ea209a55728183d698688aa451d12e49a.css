@@ -1,0 +1,13 @@
+
+
+/* Start:/bitrix/components/bitrix/form.result.new/error.css?1516819721163*/
+.form-error-fld {
+	display: block;
+	float: left;
+	height: 13px;
+	width: 15px;
+	background-repeat: no-repeat;
+	background-image: url(../../../../../components/bitrix/form.result.new/images/icon_warn.gif);
+}
+/* End */
+/* /bitrix/components/bitrix/form.result.new/error.css?1516819721163 */
